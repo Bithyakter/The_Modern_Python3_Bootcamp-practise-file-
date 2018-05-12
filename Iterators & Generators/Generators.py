@@ -58,7 +58,7 @@ print(next(counter))
 
 """Testing Memory Usage With Generators"""
 
-def fib_list(max):
+'''def fib_list(max):
     nums = []
     a, b = 0, 1
     while len(nums) < max:
@@ -81,8 +81,17 @@ def fib_gen(max):
 
 
 for n in fib_gen(1000000):
-    print(n)
+    print(n)'''
 
 # for n in fib_gen(10):
 #     print(n)
 
+
+"""print even number"""
+def even_numbers(x):
+    for i in range(x):
+     if i % 2 == 0:
+         yield i
+
+even_nums_list = list(even_numbers(20))
+print(even_nums_list)
