@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="135b7cd0-0743-4dc4-b68e-aca7ffb98d10" name="Default" comment="">
+    <list default="true" id="135b7cd0-0743-4dc4-b68e-aca7ffb98d10" name="Default" comment="Define Loop Function in python">
+      <change afterPath="$PROJECT_DIR$/LearnPythonBasic/Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnPythonBasic/Tuple&amp;sets.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.The_Basics_of_Python.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearnPythonBasic/The_BasicsPart_of_Python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filter&amp;Reduce.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lambdas &amp; Built-In Functions/Filter&amp;Reduce.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnPythonBasic/Looping_python.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearnPythonBasic/Looping_python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_expression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lambdas &amp; Built-In Functions/map.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,63 +20,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Phone.coverage" NAME="Phone Coverage Results" MODIFIED="1526384315101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regular-Expression" />
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Ensuring_args.coverage" NAME="Ensuring args Coverage Results" MODIFIED="1526211346489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Decorators" />
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Regular_expression.coverage" NAME="Regular_expression Coverage Results" MODIFIED="1526150308576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$RegexPractise.coverage" NAME="RegexPractise Coverage Results" MODIFIED="1526385495641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regular-Expression" />
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Meta_classess.coverage" NAME="Meta_classess Coverage Results" MODIFIED="1526197035370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Meta classess" />
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Tuple_sets.coverage" NAME="Tuple&amp;sets Coverage Results" MODIFIED="1526466291522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LearnPythonBasic" />
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Functions.coverage" NAME="Functions Coverage Results" MODIFIED="1526467915941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Looping_python.coverage" NAME="Looping_python Coverage Results" MODIFIED="1526466518199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LearnPythonBasic" />
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Singleton.coverage" NAME="Singleton Coverage Results" MODIFIED="1526196830939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Generators.coverage" NAME="Generators Coverage Results" MODIFIED="1526147058718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Iterators &amp; Generators" />
     <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Iterators_deck.coverage" NAME="Iterators_deck Coverage Results" MODIFIED="1525954747566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Iterators &amp; Generators" />
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Decorators.coverage" NAME="Decorators Coverage Results" MODIFIED="1526207648515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Gen_expression_speed_test.coverage" NAME="Gen-expression-speed-test Coverage Results" MODIFIED="1525960189005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Iterators &amp; Generators" />
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$timing.coverage" NAME="timing Coverage Results" MODIFIED="1526209841231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Decorators" />
     <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Basic_of_Iterators.coverage" NAME="Basic_of_Iterators Coverage Results" MODIFIED="1525949520392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Iterators &amp; Generators" />
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Functions_Part2.coverage" NAME="Functions_Part2 Coverage Results" MODIFIED="1526468746799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Iterators.coverage" NAME="Iterators Coverage Results" MODIFIED="1525954659962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Iterators &amp; Generators" />
-    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Generators.coverage" NAME="Generators Coverage Results" MODIFIED="1525958857082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Iterators &amp; Generators" />
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Character_class.coverage" NAME="Character_class Coverage Results" MODIFIED="1526151501665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regular-Expression" />
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Group.coverage" NAME="Group Coverage Results" MODIFIED="1526152396501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regular-Expression" />
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Guessing_Game_Project.coverage" NAME="Guessing_Game_Project Coverage Results" MODIFIED="1526464576541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Dictionary.coverage" NAME="Dictionary Coverage Results" MODIFIED="1526465862964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LearnPythonBasic" />
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Rock_paper_scissor.coverage" NAME="Rock-paper-scissor Coverage Results" MODIFIED="1526462330193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Metadata.coverage" NAME="Metadata Coverage Results" MODIFIED="1526209369050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Decorators" />
+    <SUITE FILE_PATH="coverage/The_Modern_Python3_Bootcamp_practise$Special_Sequence.coverage" NAME="Special_Sequence Coverage Results" MODIFIED="1526153460556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regular-Expression" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="The_Modern_Python3_Bootcamp_practise" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="map.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/map.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="91" selection-start-line="91" selection-end-line="91" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Iterators.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Iterators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="89" column="29" lean-forward="true" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Iterators_deck.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Iterators_deck.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Generators.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Generators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gen-expression-speed-test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Gen-expression-speed-test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
-              <caret line="3" column="53" lean-forward="true" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,10 +59,34 @@
       <list>
         <option value="$PROJECT_DIR$/map.py" />
         <option value="$PROJECT_DIR$/Iterators &amp; Generators/Basic_of_Iterators.py" />
+        <option value="$PROJECT_DIR$/Regular_expression.py" />
+        <option value="$PROJECT_DIR$/Regular-Expression/Character_class.py" />
+        <option value="$PROJECT_DIR$/Regular-Expression/Group.py" />
+        <option value="$PROJECT_DIR$/Regular-Expression/Special_Sequence.py" />
         <option value="$PROJECT_DIR$/Iterators &amp; Generators/Iterators_deck.py" />
-        <option value="$PROJECT_DIR$/Iterators &amp; Generators/Iterators.py" />
+        <option value="$PROJECT_DIR$/Singleton.py" />
+        <option value="$PROJECT_DIR$/Python_Meta classess/Meta_classess.py" />
+        <option value="$PROJECT_DIR$/Python_Meta classess/Singleton.py" />
         <option value="$PROJECT_DIR$/Iterators &amp; Generators/Generators.py" />
+        <option value="$PROJECT_DIR$/Iterators &amp; Generators/Iterators.py" />
+        <option value="$PROJECT_DIR$/Decorators.py" />
+        <option value="$PROJECT_DIR$/Decorators/Decorators.py" />
+        <option value="$PROJECT_DIR$/Decorators/Metadata.py" />
+        <option value="$PROJECT_DIR$/Decorators/timing.py" />
+        <option value="$PROJECT_DIR$/Decorators/Ensuring args.py" />
         <option value="$PROJECT_DIR$/Iterators &amp; Generators/Gen-expression-speed-test.py" />
+        <option value="$PROJECT_DIR$/Regular-Expression/Regular_expression.py" />
+        <option value="$PROJECT_DIR$/Regular-Expression/Phone.py" />
+        <option value="$PROJECT_DIR$/Regular-Expression/RegexPractise.py" />
+        <option value="$PROJECT_DIR$/LearnPythonBasic/5.The_Basics_of_Python.py" />
+        <option value="$PROJECT_DIR$/Rock-paper-scissor.py" />
+        <option value="$PROJECT_DIR$/Guessing_Game_Project.py" />
+        <option value="$PROJECT_DIR$/LearnPythonBasic/Dictionary.py" />
+        <option value="$PROJECT_DIR$/LearnPythonBasic/Looping_python.py" />
+        <option value="$PROJECT_DIR$/LearnPythonBasic/Tuple&amp;sets.py" />
+        <option value="$PROJECT_DIR$/Functions.py" />
+        <option value="$PROJECT_DIR$/Functions_Part1.py" />
+        <option value="$PROJECT_DIR$/Functions_Part2.py" />
       </list>
     </option>
   </component>
@@ -108,9 +112,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Course" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,19 +122,32 @@
             <path>
               <item name="The_Modern_Python3_Bootcamp_practise" type="b2602c69:ProjectViewProjectNode" />
               <item name="The_Modern_Python3_Bootcamp_practise" type="462c0819:PsiDirectoryNode" />
-              <item name="Iterators &amp; Generators" type="462c0819:PsiDirectoryNode" />
+              <item name="Lambdas &amp; Built-In Functions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Course" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lambdas &amp; Built-In Functions" />
+      <recent name="$PROJECT_DIR$/LearnPythonBasic" />
+      <recent name="$PROJECT_DIR$/Decorators" />
+      <recent name="$PROJECT_DIR$/Python_Meta classess" />
+      <recent name="$PROJECT_DIR$/Regular-Expression" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Gen-expression-speed-test">
+  <component name="RunManager" selected="Python.Functions_Part2">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -167,7 +181,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Basic_of_Iterators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The_Modern_Python3_Bootcamp_practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,18 +189,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iterators &amp; Generators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearnPythonBasic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iterators &amp; Generators/Basic_of_Iterators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LearnPythonBasic/Dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Gen-expression-speed-test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The_Modern_Python3_Bootcamp_practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,18 +208,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iterators &amp; Generators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iterators &amp; Generators/Gen-expression-speed-test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions_Part1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Generators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Functions_Part2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The_Modern_Python3_Bootcamp_practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,18 +227,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iterators &amp; Generators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iterators &amp; Generators/Generators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions_Part2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Iterators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Looping_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The_Modern_Python3_Bootcamp_practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,18 +246,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iterators &amp; Generators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearnPythonBasic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iterators &amp; Generators/Iterators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LearnPythonBasic/Looping_python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Iterators_deck" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Tuple&amp;sets" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The_Modern_Python3_Bootcamp_practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,12 +265,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iterators &amp; Generators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearnPythonBasic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iterators &amp; Generators/Iterators_deck.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LearnPythonBasic/Tuple&amp;sets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,19 +299,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Python.Basic_of_Iterators" />
-      <item itemvalue="Python.Iterators" />
-      <item itemvalue="Python.Iterators_deck" />
-      <item itemvalue="Python.Generators" />
-      <item itemvalue="Python.Gen-expression-speed-test" />
+      <item itemvalue="Python.Looping_python" />
+      <item itemvalue="Python.Dictionary" />
+      <item itemvalue="Python.Tuple&amp;sets" />
+      <item itemvalue="Python.Functions" />
+      <item itemvalue="Python.Functions_Part2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Gen-expression-speed-test" />
-        <item itemvalue="Python.Generators" />
-        <item itemvalue="Python.Iterators_deck" />
-        <item itemvalue="Python.Iterators" />
-        <item itemvalue="Python.Basic_of_Iterators" />
+        <item itemvalue="Python.Functions_Part2" />
+        <item itemvalue="Python.Functions" />
+        <item itemvalue="Python.Looping_python" />
+        <item itemvalue="Python.Tuple&amp;sets" />
+        <item itemvalue="Python.Dictionary" />
       </list>
     </recent_temporary>
   </component>
@@ -313,6 +327,17 @@
       <updated>1525936953593</updated>
       <workItem from="1525936957386" duration="14867000" />
       <workItem from="1525959819902" duration="1444000" />
+      <workItem from="1525974169135" duration="2506000" />
+      <workItem from="1526109242999" duration="3030000" />
+      <workItem from="1526137525076" duration="10603000" />
+      <workItem from="1526187188278" duration="9861000" />
+      <workItem from="1526206585776" duration="5058000" />
+      <workItem from="1526276522495" duration="1350000" />
+      <workItem from="1526288914412" duration="4154000" />
+      <workItem from="1526369217980" duration="1739000" />
+      <workItem from="1526374334357" duration="5592000" />
+      <workItem from="1526406868700" duration="1712000" />
+      <workItem from="1526451144718" duration="16940000" />
     </task>
     <task id="LOCAL-00001" summary="Generator Expression speed test">
       <created>1525960997117</created>
@@ -342,43 +367,149 @@
       <option name="project" value="LOCAL" />
       <updated>1525961195857</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="print even number">
+      <created>1526147179930</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1526147179931</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Use of ' re ' module">
+      <created>1526149096213</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1526149096213</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Basic of regular-expression">
+      <created>1526151006637</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1526151006637</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Use of character class">
+      <created>1526151780120</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1526151780120</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Use of different group functions">
+      <created>1526152538387</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1526152538387</updated>
+    </task>
+    <task id="LOCAL-00010" summary="special sequence of regular expression">
+      <created>1526153536897</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1526153536897</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Creating Singletons using Metaclasses">
+      <created>1526196963038</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1526196963038</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Defining Metaclasses">
+      <created>1526197099307</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1526197099307</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Building a Speed-test decorators">
+      <created>1526209992322</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1526209992323</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add Decorators file">
+      <created>1526211590687</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1526211590687</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Adding Advanced RegexPractise File">
+      <created>1526385970505</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1526385970505</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Define Loop Function in python">
+      <created>1526456678168</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1526456678168</updated>
+    </task>
+    <task id="LOCAL-00017" summary="RPS Mini Project">
+      <created>1526464800802</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1526464800802</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Guessing Game Mini Project">
+      <created>1526464846376</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1526464846376</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Functions All WorkFlow">
+      <created>1526468870488</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1526468870488</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16311000" />
+    <option name="totallyTimeSpent" value="78856000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="708" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette" order="10" />
       <window_info anchor="right" id="IDEtalk" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5030349" side_tool="true" weight="0.39788732" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" sideWeight="0.50442475" side_tool="true" weight="0.21775417" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.15316902" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5721831" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49868765" visible="true" weight="0.18588771" />
-      <window_info anchor="bottom" id="IDEtalk Messages" order="7" />
-      <window_info id="Learn" order="2" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" sideWeight="0.5013123" side_tool="true" weight="0.24962063" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3309859" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32922536" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4969651" weight="0.42605633" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32922536" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.48415494" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49557522" visible="true" weight="0.21775417" />
+      <window_info anchor="bottom" id="IDEtalk Messages" order="9" />
+      <window_info id="Learn" order="6" />
+      <window_info anchor="right" id="SciView" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="5" sideWeight="0.5013123" side_tool="true" weight="0.24962063" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -395,10 +526,156 @@
     <MESSAGE value="Making our deck class iterators" />
     <MESSAGE value="Basic operations of Generators" />
     <MESSAGE value="Basic operations of Iterators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic operations of Iterators" />
+    <MESSAGE value="print even number" />
+    <MESSAGE value="Use of ' re ' module" />
+    <MESSAGE value="Basic of regular-expression" />
+    <MESSAGE value="Use of character class" />
+    <MESSAGE value="Use of different group functions" />
+    <MESSAGE value="special sequence of regular expression" />
+    <MESSAGE value="Creating Singletons using Metaclasses" />
+    <MESSAGE value="Defining Metaclasses" />
+    <MESSAGE value="Building a Speed-test decorators" />
+    <MESSAGE value="Add Decorators file" />
+    <MESSAGE value="Adding Advanced RegexPractise File" />
+    <MESSAGE value="Define Loop Function in python" />
+    <MESSAGE value="RPS Mini Project" />
+    <MESSAGE value="Guessing Game Mini Project" />
+    <MESSAGE value="Functions All WorkFlow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Functions All WorkFlow" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/map.py">
+    <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Iterators_deck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decorators/Decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Generators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="96" column="13" selection-start-line="96" selection-start-column="13" selection-end-line="96" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lambdas &amp; Built-In Functions/map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Iterators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1602">
+          <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Iterators_deck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Generators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Gen-expression-speed-test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lambdas &amp; Built-In Functions/map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Iterators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1602">
+          <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Iterators_deck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Generators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Gen-expression-speed-test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lambdas &amp; Built-In Functions/map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Iterators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1602">
+          <caret line="89" column="29" lean-forward="true" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Iterators_deck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Gen-expression-speed-test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="53" lean-forward="true" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Generators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lambdas &amp; Built-In Functions/map.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1638">
           <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
@@ -426,45 +703,195 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9180" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Basic_of_Iterators.py" />
-    <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Gen-expression-speed-test.py">
+    <entry file="file://$PROJECT_DIR$/Lambdas &amp; Built-In Functions/map.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="3" column="53" lean-forward="true" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+        <state relative-caret-position="404">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/map.py">
+    <entry file="file://$PROJECT_DIR$/Regular-Expression/Character_class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        <state relative-caret-position="494">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Regular-Expression/Group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Regular-Expression/Special_Sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Meta classess/Meta_classess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Meta classess/Singleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decorators/timing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decorators/Metadata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decorators/Decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="143" lean-forward="true" selection-start-line="143" selection-end-line="143" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Iterators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="89" column="29" lean-forward="true" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+        <state relative-caret-position="185">
+          <caret line="94" column="12" selection-start-line="94" selection-start-column="12" selection-end-line="94" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Iterators_deck.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="221">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Gen-expression-speed-test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decorators/Ensuring args.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Regular-Expression/Pythex-Regex-Editor.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Regular-Expression/Regular_expression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Regular-Expression/RegexPractise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1332">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Regular-Expression/Phone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Iterators &amp; Generators/Generators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+        <state relative-caret-position="296">
+          <caret line="90" column="20" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guessing_Game_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnPythonBasic/List.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnPythonBasic/Dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnPythonBasic/Looping_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rock-paper-scissor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnPythonBasic/Tuple&amp;sets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnPythonBasic/The_BasicsPart_of_Python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="35" column="83" lean-forward="true" selection-start-line="35" selection-start-column="83" selection-end-line="35" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_Part2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_Part1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1952">
+          <caret line="157" lean-forward="true" selection-start-line="157" selection-end-line="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10428" />
       </provider>
     </entry>
   </component>
